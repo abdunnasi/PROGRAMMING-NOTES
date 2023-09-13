@@ -1,0 +1,20 @@
+
+<html>
+<head>
+    <main>
+        <h1>PROGRAMMING LANGUAGES</h1>
+        <title>PROGRAMMING LANGUAGES</title>
+        <h2>LOW LEVEL LANGUAGES</h2>
+        <P>These are classified as low level because they can easily be understood by the computer directly.They are hardware dependants for exaple a program designed for one computer can not be installed and used on another</P>
+        <h3>MACHINE LANGUAGE</h3>
+        <P>These are languages in which programming is done in binary logic for example instrutions are written in 0s and 1s</P>
+        <P>They are machine dependant for example they vary from computer to computer</P>
+        <h3>HIGH LEVEL LANGUAGES</h3>
+        <P>Languages that are closer to human language but they need language processor to work backwards</P>
+        <p>A high level language resembles some human language like English</p>
+        <h4>ASSEMBLY PROGRAMMING LANGUAGES</h4>
+        <p>These allow users to write a program using abbreviations or even more easily remembered words</p>
+        <p>They need assemblers to translate them to machine language,understable by the computer</p>
+    </main>
+</head>    
+</html>
